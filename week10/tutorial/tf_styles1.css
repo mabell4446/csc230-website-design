@@ -144,6 +144,10 @@ body > footer {
 
 /* Pulldown Menu Styles */
 
+ul.submenu {
+   display: none;
+}
+
 /* New Styles Added Below */
 
 /* ==============================
