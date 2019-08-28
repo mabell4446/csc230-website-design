@@ -9,14 +9,13 @@ html{
 /* Header Styles */
 
 header h1 {
-    background-color: #838383
+    background-color: #676767
 }
 
 /* Body Styles */
 
 body {
     background-color: rgb(184, 184, 184);
-    display: block;
 }
 
 /* Aside Styles */
