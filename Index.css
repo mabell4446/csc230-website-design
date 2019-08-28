@@ -1,19 +1,34 @@
 @charset "utf-8";
 
+/* HTML Styles */
+html{
+    color: #506fa8;
+    display: block;
+}
+
 /* Header Styles */
 
 header h1 {
-    background-color: #777777
+    background-color: #838383
 }
 
 /* Body Styles */
 
 body {
-    background-color: rgb(84, 199, 161)
+    background-color: rgb(184, 184, 184);
+    display: block;
 }
 
 /* Aside Styles */
 
 aside {
-    
+    float: right;
+    text-align: center;
+}
+
+/* Footer styles */
+
+footer {
+    text-align: center;
+    background-color: #445980;
 }
