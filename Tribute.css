@@ -4,6 +4,10 @@ body {
     background-color: rgb(126, 165, 184);
 }
 
+body.section {
+    margin: auto;
+}
+
 aside {
     text-align: center;
     float:right;
