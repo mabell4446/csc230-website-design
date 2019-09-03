@@ -6,7 +6,8 @@ body {
 
 aside {
     text-align: center;
-    float:right
+    float:right;
+    clear: both;
 }
 
 footer {
